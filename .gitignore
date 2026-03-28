@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+test_server.log
+report.json
+report.csv
+empty.log
+big_test.log
